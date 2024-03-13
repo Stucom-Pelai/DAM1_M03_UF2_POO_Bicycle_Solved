@@ -115,6 +115,7 @@ public class TestBicycle {
 				break;
 			}
 			distances[i]=distance;
+			i++;  // Increment the loop counter
 			
 		} while (i<4);
 							
